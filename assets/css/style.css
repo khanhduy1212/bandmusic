@@ -112,12 +112,19 @@ height: 700px;
     font-weight: bold;
 }
 
-  
-    
-
 
 #contentType{ 
 
+}
+.section-heading{
+   padding: 60px;
+    text-align: center;
+    color: #13626b;
+}
+.section-sub-heading{
+    text-align:center;
+    margin-top: -45px;
+    font-style: italic;
 }
 
 #footer{
